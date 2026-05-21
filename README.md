@@ -8,3 +8,5 @@
 Blizzard1238562/Blizzard1238562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Check out my Modrinth Page where i have all my Minecrat Plugins!
+https://modrinth.com/user/Blizzard
