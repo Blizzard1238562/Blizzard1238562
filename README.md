@@ -9,8 +9,6 @@ https://modrinth.com/user/Blizzard
 
 
 [![Blizzard](https://modfolio.creeperkatze.dev/modrinth/user/Blizzard?showSparklines=false)](https://modrinth.com/user/Blizzard)
-
-[![Blizzard](https://aquamarine-paprenjak-1a71e0.netlify.app/?a=tpa.66666&b=simpletpaplugin&laps=downloads)](https://modrinth.com/user/Blizzard)
 <!---
 Blizzard1238562/Blizzard1238562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
